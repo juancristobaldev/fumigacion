@@ -1,0 +1,9 @@
+# MISIÓN - 5 VERSIONES
+
+1. Corporativa: "Proveer servicios integrales de limpieza, sanitización y mantenimiento de espacios en la IX Región, utilizando tecnología adecuada y personal capacitado para garantizar la satisfacción y bienestar de nuestros clientes."
+2. Moderna: "Transformar espacios sucios o contaminados en ambientes puros y saludables, brindando soluciones rápidas y eficaces de limpieza y control de plagas para los habitantes de Temuco."
+3. Inspiradora: "Llevar pureza, orden y tranquilidad a cada hogar y empresa de La Araucanía, protegiendo lo que más importa: la salud y el bienestar de las personas a través de espacios impecables."
+4. Startup: "Simplificar el mantenimiento del hogar reuniendo limpieza profunda, fumigación y jardinería en un solo clic, con un servicio profesional y transparente en la Región de La Araucanía."
+5. Premium: "Ofrecer una experiencia de limpieza y sanitización del más alto nivel, restaurando la belleza original de los espacios y mobiliario con estándares de calidad exigentes."
+
+Nivel de confianza: ALTO.

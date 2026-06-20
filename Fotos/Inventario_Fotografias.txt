@@ -1,0 +1,102 @@
+# INVENTARIO DE FOTOGRAFÍAS
+
+Archivo: 1000000229.jpg
+Categoría: Servicios
+Descripción automática: Operario realizando sanitización/fumigación en fachada de edificio.
+Etiquetas: sanitizacion, exterior, edificio, fumigacion
+---
+Archivo: 1000000249.jpg
+Categoría: Servicios
+Descripción automática: Servicio de limpieza o mantenimiento general (fotografía genérica).
+Etiquetas: limpieza, general
+---
+Archivo: 1000057710.jpg
+Categoría: Servicios
+Descripción automática: Operaciones de limpieza residencial.
+Etiquetas: limpieza, hogar
+---
+Archivo: 1000122693.jpg
+Categoría: Equipo
+Descripción automática: Equipo de limpieza trabajando en terreno.
+Etiquetas: equipo, trabajo
+---
+Archivo: 1000122697.jpg
+Categoría: Equipo
+Descripción automática: Personal de R.U. Limpieza realizando sus labores.
+Etiquetas: personal, limpieza
+---
+Archivo: 1000123420.jpg
+Categoría: Servicios
+Descripción automática: Detalle de limpieza de superficies.
+Etiquetas: superficies, limpieza
+---
+Archivo: 1000123424.jpg
+Categoría: Servicios
+Descripción automática: Trabajo de limpieza profunda en progreso.
+Etiquetas: limpieza, profunda
+---
+Archivo: 1000126263.jpg
+Categoría: Instalaciones
+Descripción automática: Espacio antes o después de la limpieza.
+Etiquetas: espacio, limpieza
+---
+Archivo: 1000130213.jpg
+Categoría: Servicios
+Descripción automática: Limpieza de sillón/tapiz con producto químico y cepillo.
+Etiquetas: tapiz, sillon, limpieza
+---
+Archivo: 1000130215.jpg
+Categoría: Servicios
+Descripción automática: Limpieza de tapices o alfombras.
+Etiquetas: alfombra, tapiz
+---
+Archivo: 1000131622.jpg
+Categoría: Servicios
+Descripción automática: Proceso de limpieza profunda.
+Etiquetas: limpieza
+---
+Archivo: 1000145757.jpg
+Categoría: Servicios
+Descripción automática: Limpieza de pisos o exteriores.
+Etiquetas: pisos, exteriores
+---
+Archivo: 1000145854.jpg
+Categoría: Instalaciones
+Descripción automática: Casa de madera con cartel VENDE y máquinas de limpieza profesionales (aspiradora, lustradora).
+Etiquetas: casa, venta, maquinas, limpieza, exterior
+---
+Archivo: 1000149487.jpg
+Categoría: Servicios
+Descripción automática: Personal realizando limpieza industrial profunda en una iglesia (pisos de madera, alfombras).
+Etiquetas: iglesia, limpieza, industrial, equipo
+---
+Archivo: Captura de pantalla 2026-06-19 a la(s) 8.46.06 p.m..png
+Categoría: RedesSociales
+Descripción automática: Catálogo: Limpieza de tapices ($4.500) y Limpieza de pisos ($35.000).
+Etiquetas: catalogo, precios, tapices, pisos
+---
+Archivo: Captura de pantalla 2026-06-19 a la(s) 8.46.10 p.m..png
+Categoría: RedesSociales
+Descripción automática: Catálogo: Desinsectación ($30.000) y Desratización ($30.000).
+Etiquetas: catalogo, precios, plagas, desratizacion
+---
+Archivo: Captura de pantalla 2026-06-19 a la(s) 8.46.13 p.m..png
+Categoría: RedesSociales
+Descripción automática: Catálogo: Corte de césped y poda ($10.000).
+Etiquetas: catalogo, precios, jardin, poda
+---
+Archivo: WhatsApp Image 2026-06-19 at 20.07.23.jpeg
+Categoría: Marketing
+Descripción automática: Flyer publicitario 'Protege y desinfecta tu hogar' ofreciendo servicios de desinsectación, sanitización, fumigación.
+Etiquetas: flyer, marketing, fumigacion
+---
+Archivo: WhatsApp Image 2026-06-19 at 20.09.33.jpeg
+Categoría: Marketing
+Descripción automática: Banner web detallando limpieza de pisos, tapices y post obra con íconos.
+Etiquetas: banner, servicios, iconos
+---
+Archivo: WhatsApp Image 2026-06-19 at 20.10.41.jpeg
+Categoría: Branding
+Descripción automática: Logotipo oficial R.U. LIMPIEZA TEMUCO.
+Etiquetas: logo, branding
+---

@@ -1,0 +1,13 @@
+# IDENTIFICACIÓN DE SERVICIOS
+
+| Servicio | Descripción | Público Objetivo | Beneficio |
+| -------- | ----------- | ---------------- | --------- |
+| Limpieza de Tapices | Limpieza profunda de sofás, sillones, sillas. Eliminación de manchas, suciedad y ácaros. ($4.500) | Hogares, oficinas, dueños de mascotas. | Muebles como nuevos, eliminación de alérgenos y malos olores. |
+| Limpieza Profunda de Pisos | Lavado y abrillantado de alfombras, cerámicos, vinílicos, flotantes, decantados. ($35.000) | Hogares, locales comerciales, instituciones. | Pisos impecables, brillantes y libres de suciedad incrustada. |
+| Limpieza Post Obra o Mudanza | Eliminación de polvo fino, residuos y suciedad de construcciones o trasteos. | Constructoras, personas que se mudan, corredoras de propiedades. | Espacios habitables de inmediato, sin estrés post-construcción. |
+| Desinsectación y Fumigación | Erradicación de cualquier tipo de insectos molestos o peligrosos en el hogar. ($30.000) | Hogares con plagas, restaurantes, bodegas. | Ambiente seguro, higiénico y libre de insectos o enfermedades. |
+| Sanitización | Aplicación de productos químicos para reducir y eliminar microorganismos patógenos. | Empresas, clínicas, hogares preocupados por higiene. | Prevención de enfermedades y espacios clínicamente limpios. |
+| Desratización | Control y erradicación de roedores. ($30.000) | Casas antiguas, bodegas, empresas de alimentos. | Protección contra enfermedades y daños estructurales. |
+| Corte de césped y poda | Mantenimiento de áreas verdes, jardines y patios. ($10.000) | Casas con jardín, condominios, instituciones. | Jardín estéticamente agradable, ordenado y libre de maleza. |
+
+Nivel de confianza: ALTO.
